@@ -1,2 +1,11 @@
-# self-introduction
-个人介绍
+## DeepFuckingValue 👋
+---
+### About me
+
+-  `CTFer` && `渗透测试` && `网络攻防`
+- QQ：`MjcyMDg0MzY2OQ==`
+- Blog： https://ctfking.com/
+
+[![Tajang-ctf's github stats](https://github-readme-stats.vercel.app/api?username=Tajang-ctf&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+> ***临渊羡鱼，不如退而结网。努力，努力，努力***
