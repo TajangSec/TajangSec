@@ -1,6 +1,4 @@
-## DeepFuckingValue 👋
----
-### About me
+## About me
 
 -  `CTFer` && `渗透测试` && `网络攻防`
 - QQ：`MjcyMDg0MzY2OQ==`
