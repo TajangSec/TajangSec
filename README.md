@@ -1,8 +1,8 @@
 ## About me
 
 - 🚩 `CTFer` && `渗透测试` && `网络攻防`
-- 🐧 QQ：`MjcyMDg0MzY2OQ==`
-- 📧 E-mail：`2720843669@qq.com`
+- 🐧 QQ：`NjIwMDY3NA`
+- 📧 E-mail：`Tajang@qq.com`
 - 📖 Blog： https://ctfking.com
 - 🌊 CSDN： https://blog.csdn.net/qq_45619909
 
