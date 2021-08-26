@@ -1,6 +1,6 @@
 ## About me
 
-- 🚩 `CTFer` && `渗透测试` && `网络攻防`
+- 🚩 `渗透测试` && `漏洞挖掘` && `CTF`
 - 📧 E-mail：`Tajang@qq.com`
 - 📖 Blog： https://ctfking.com
 - 🌊 CSDN： https://blog.csdn.net/qq_45619909
