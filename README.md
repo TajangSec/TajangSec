@@ -5,6 +5,6 @@
 - 📖 Blog： https://ctfking.com
 - 🌊 CSDN： https://blog.csdn.net/qq_45619909
 
-[![Tajang-ctf's github stats](https://github-readme-stats.vercel.app/api?username=Tajang-ctf&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+![Tajang-ctf's github stats](https://github-readme-stats.vercel.app/api?username=Tajang-ctf&show_icons=true&icon_color=fff&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 > ***临渊羡鱼，不如退而结网。努力，努力，努力***
