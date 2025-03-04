@@ -1,21 +1,17 @@
-
 <h2 align="center">Tajang</h2>
 
 <h4 align="center">Failed Hacker</h4>
 
 <p align="center">
   <a href="#">
-    <img width="400" align="top" src="/github-metrics.svg" />
+    <img width="400" align="top" src="https://gist.githubusercontent.com/TajangSec/df4cbfee624290a86799b884b5b1527a/raw/general.svg" />
   </a>
   &emsp;
   <a href="#">
-    <img width="400" align="top" src="/github-metrics.svg" />
+    <img width="400" align="top" src="https://gist.githubusercontent.com/TajangSec/df4cbfee624290a86799b884b5b1527a/raw/achievements.svg" />
   </a>
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+![GitHub Snake Light](https://gist.githubusercontent.com/TajangSec/df4cbfee624290a86799b884b5b1527a/raw/github-snake.svg#gh-light-mode-only)
 
+![GitHub Snake Dark](https://gist.githubusercontent.com/TajangSec/df4cbfee624290a86799b884b5b1527a/raw/github-snake-dark.svg#gh-dark-mode-only)
