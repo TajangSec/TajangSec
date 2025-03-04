@@ -24,8 +24,6 @@ jobs:
           #  - read:packages (for some packages related data)
           #  - repo          (optional, if you want to include private repositories)
           token: ${{ secrets.METRICS_TOKEN }}
-          env:
-            GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
 
           filename: general.svg
           output_action: gist
@@ -61,6 +59,8 @@ jobs:
           plugin_rss: yes
           plugin_rss_limit: 4
           plugin_rss_source: https://h4cker.zip/index.xml
+        env:
+          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
 
       - name: About
         uses: lowlighter/metrics@latest
@@ -74,9 +74,7 @@ jobs:
           #  - read:packages (for some packages related data)
           #  - repo          (optional, if you want to include private repositories)
           token: ${{ secrets.METRICS_TOKEN }}
-          env:
-            GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
-            
+
           filename: about.svg
           output_action: gist
           committer_gist: ${{ secrets.GIST }}
@@ -96,3 +94,5 @@ jobs:
           plugin_pagespeed: yes
           plugin_pagespeed_screenshot: yes
           plugin_pagespeed_url: https://h4cker.zip/
+        env:
+          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
