@@ -8,7 +8,7 @@
   </a>
   &emsp;
   <a href="#">
-    <img width="400" align="top" src="https://gist.githubusercontent.com/TajangSec/df4cbfee624290a86799b884b5b1527a/raw/achievements.svg" />
+    <img width="400" align="top" src="https://gist.githubusercontent.com/TajangSec/df4cbfee624290a86799b884b5b1527a/raw/about.svg" />
   </a>
 </p>
 
