@@ -60,7 +60,7 @@ jobs:
           plugin_rss_limit: 4
           plugin_rss_source: https://h4cker.zip/index.xml
         env:
-          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: About
         uses: lowlighter/metrics@latest
@@ -95,4 +95,4 @@ jobs:
           plugin_pagespeed_screenshot: yes
           plugin_pagespeed_url: https://h4cker.zip/
         env:
-          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
