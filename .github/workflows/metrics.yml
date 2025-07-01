@@ -62,6 +62,11 @@ jobs:
           plugin_rss_limit: 4
           plugin_rss_source: https://h4cker.zip/index.xml
 
+      - name: Clean up duplicate apt sources
+        run: |
+          sudo rm -f /etc/apt/sources.list.d/google.list
+          sudo apt update
+
       - name: Right
         uses: stalomeow/metrics@projects-v2
         with:
