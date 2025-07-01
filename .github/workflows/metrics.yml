@@ -9,7 +9,6 @@ on:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
-    container: python:3.11-slim
     environment: 
       name: production
     permissions:
