@@ -9,6 +9,7 @@ on:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+    container: python:3.11-slim
     environment: 
       name: production
     permissions:
@@ -63,7 +64,7 @@ jobs:
           plugin_rss_source: https://h4cker.zip/index.xml
 
       - name: Right
-        uses: lowlighter/metrics@latest
+        uses: stalomeow/metrics@projects-v2
         with:
           # Your GitHub token
           # The following scopes are required:
