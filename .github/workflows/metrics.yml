@@ -63,7 +63,7 @@ jobs:
           plugin_rss_source: https://h4cker.zip/index.xml
 
       - name: Right
-        uses: gh-metrics/metrics@master
+        uses: stalomeow/metrics@projects-v2
         with:
           # Your GitHub token
           # The following scopes are required:
