@@ -12,7 +12,7 @@ jobs:
 
     steps:
       - name: Left
-        uses: lowlighter/metrics@v3.34
+        uses: lowlighter/metrics@latest
         with:
           
           token: ${{ secrets.METRICS_TOKEN }}
@@ -55,7 +55,7 @@ jobs:
           plugin_rss_source: https://h4cker.zip/index.xml
 
       - name: Right
-        uses: stalomeow/metrics@v2.0.3
+        uses: stalomeow/metrics@projects-v2
         with:
           # Your GitHub token
           # The following scopes are required:
@@ -89,7 +89,7 @@ jobs:
           plugin_pagespeed_url: https://h4cker.zip/
         
       - name: snake
-        uses: Platane/snk@v3.2.0
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
