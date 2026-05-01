@@ -1,4 +1,6 @@
-![Static Badge](https://img.shields.io/badge/Security%20Researcher-8A2BE2?style=flat-square&logo=securityscorecard)  ![Static Badge](https://img.shields.io/badge/CTF%20Player-cyan?style=flat-square&logo=picartodottv)  ![Static Badge](https://img.shields.io/badge/Web-Pwn-red?style=flat-square)
+![Static Badge](https://img.shields.io/badge/Security%20Researcher-8A2BE2?style=flat-square&logo=securityscorecard)&nbsp;
+![Static Badge](https://img.shields.io/badge/CTF%20Player-cyan?style=flat-square&logo=picartodottv)&nbsp;
+![Static Badge](https://img.shields.io/badge/Web-Pwn-red?style=flat-square)
 
 #### An-AI-Hacker
 ![icons](https://go-skill-icons.vercel.app/api/icons?i=animate,celery,illustrator,celery,hugo,animejs,contentful,kaggle,elementor,revolt)
